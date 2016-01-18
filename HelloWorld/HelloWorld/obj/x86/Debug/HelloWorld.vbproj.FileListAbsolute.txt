@@ -1,0 +1,10 @@
+C:\Users\SUNSHINE\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\SUNSHINE\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\SUNSHINE\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.xml
+C:\Users\SUNSHINE\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.Form1.resources
+C:\Users\SUNSHINE\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.Form2.resources
+C:\Users\SUNSHINE\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.Resources.resources
+C:\Users\SUNSHINE\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.vbproj.GenerateResource.Cache
+C:\Users\SUNSHINE\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
+C:\Users\SUNSHINE\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.xml
+C:\Users\SUNSHINE\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb
